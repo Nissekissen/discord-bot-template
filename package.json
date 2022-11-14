@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A template for discord bots",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nissekissen/discord-bot-template.git"
+  },
+  "author": "Nissekissen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nissekissen/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/Nissekissen/discord-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
